@@ -1,12 +1,19 @@
+body{
+    font-family: "Helvetica", "Lucida Grande", sans-serif;
+    color: #3D3D3D;
+}
+
 h1{
     color: #3D3D3D;
     background-color: #E1EDF2;
 }
+
 h2{
     border-bottom: 1px solid black;
 }
+
 figure{
-    color: rgb(66, 66, 66);
+    color: rgb(77, 77, 77);
     background-color: whitesmoke;
     position: center;
 }
